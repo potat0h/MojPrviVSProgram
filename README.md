@@ -1,3 +1,3 @@
 # MojPrviVSProgram
 
-# dobar dan profesore
+dobar dan profesore
